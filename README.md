@@ -1,3 +1,3 @@
 # Hello_world
-This is first hands on 
-This is actually the changes and fixers on the new branch created!
+This is first hands on! 
+This is actually the changes and fixes on the new branch created!
